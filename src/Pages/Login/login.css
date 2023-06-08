@@ -1,0 +1,19 @@
+.login{
+    
+    width: 100wv;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+   position: relative;
+   top: 10vh;
+}
+/* .lgn-frm{
+   background-color: red;
+   padding: 1vh;
+} */
+form{
+display: grid;
+gap: 2vh;
+align-items: center;
+
+}

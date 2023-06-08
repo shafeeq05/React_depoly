@@ -1,0 +1,11 @@
+.footer2{
+position: absolute;
+bottom: 1vh;
+left: 1vh;
+}
+.footer1{
+    position: absolute;
+    right: 1vh;
+    bottom: 1vh;
+}
+

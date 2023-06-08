@@ -1,0 +1,9 @@
+.cart{
+    /* background-color: red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 10vw;
+    align-items: center;
+    
+}
